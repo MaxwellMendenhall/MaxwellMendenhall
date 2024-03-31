@@ -1,11 +1,10 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-hi, im jd 🔮.
+Hi, I'm Maxwell 🔮.
 
-@@advanced programming student.@@
-+ living in tel aviv, israel.
-- 17 years old
-! program engineer, web developer and shitposter
-# 📖 reverse engineering, computer science
+@@computer science student.@@
++ West Chester University
+- 21 years old
+! 📖 Enjoy Software Engineering, Reverse Engineering Games, and Developing Trading Stratigies that involve machine learning
 ```
