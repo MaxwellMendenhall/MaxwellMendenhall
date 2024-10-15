@@ -7,7 +7,7 @@ Hi, I'm Maxwell 🔮.
 + West Chester University
 - 22 years old
 ! 📖 Enjoy Software Engineering,
-! Reverse Engineering Games, and
-! Developing Trading Stratigies
-! that involve machine learning
+Reverse Engineering Games, and
+Developing Trading Strategies
+that involve machine learning.
 ```
