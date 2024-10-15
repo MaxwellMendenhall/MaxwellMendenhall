@@ -3,9 +3,9 @@
 ```diff
 Hi, I'm Maxwell 🔮.
 
-@@computer science student.@@
+@@Computer Science Student@@
 + West Chester University
-- 21 years old
+- 22 years old
 ! 📖 Enjoy Software Engineering,
 ! Reverse Engineering Games, and
 ! Developing Trading Stratigies
