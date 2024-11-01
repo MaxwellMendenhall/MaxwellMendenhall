@@ -11,7 +11,8 @@ Welcome to my GitHub portfolio! Here, you'll find a selection of projects that h
 ### 1. **Nember - AI-Driven Trading Solution**
 Machine learning application designed to work with any NinjaScript strategy, enhancing profit while reducing drawdown by 50% to as much as 300%.
 
-![Nember Demo](demo.gif) <!-- Embed a short GIF demo or screenshot -->
+![Nember Demo](demo.gif)
+
 **Tech Stack**: NinjaTrader, NinjaScript, C#
 
 **Highlights**:
@@ -26,6 +27,7 @@ Machine learning application designed to work with any NinjaScript strategy, enh
 A no-code, Docker-deployed app for running backtests using the ML-Backtest Python library, simplifying machine learning backtesting for non-coders.
 
 ![ML-Backtest App Demo](ml-backtest-app-demo.gif)
+
 **Tech Stack**: Python, Docker
 
 **Features**:
@@ -40,6 +42,7 @@ A no-code, Docker-deployed app for running backtests using the ML-Backtest Pytho
 Developed a website that boosted customer reach for a local business, attracting over 50 new customers per week.
 
 ![Tailored Film Studio](tailored-film-studio.gif)
+
 **Tech Stack**: Web Development (specifics as applicable)
 
 **Features**:
