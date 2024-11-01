@@ -59,9 +59,4 @@ I'm constantly looking to expand my skill set and take on challenging projects t
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your-email@example.com)
-
 Thank you for stopping by! Feel free to explore my work, star a project, or reach out to chat about tech, trading, and AI! 😊
