@@ -13,7 +13,7 @@ Machine learning application designed to work with any NinjaScript strategy, enh
 
 ![Nember Demo](demo.gif)
 
-**Tech Stack**: NinjaTrader, NinjaScript, C#
+**Tech Stack**: NinjaScript, C#, Python, MongoDB, and Vue.js
 
 **Highlights**:
 - **Performance Boost**: AI-based analysis to increase profits and mitigate risks.
@@ -43,7 +43,7 @@ Developed a website that boosted customer reach for a local business, attracting
 
 ![Tailored Film Studio](tailored-film-studio.gif)
 
-**Tech Stack**: Web Development (specifics as applicable)
+**Tech Stack**: Vue.js, Python, and Docker
 
 **Features**:
 - **Enhanced Customer Engagement**: Intuitive UI design focused on user engagement.
