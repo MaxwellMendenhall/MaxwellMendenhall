@@ -40,7 +40,7 @@ A no-code, Docker-deployed app for running backtests using the ML-Backtest Pytho
 Developed a website that boosted customer reach for a local business, attracting over 50 new customers per week.
 
 ![Tailored Film Studio](tailored-film-studio.mp4)
-**Tech Stack**: Web Development (specifics as applicable)
+**Tech Stack**: Vue.js, Python, and Docker
 
 **Features**:
 - **Enhanced Customer Engagement**: Intuitive UI design focused on user engagement.
