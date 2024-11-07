@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Computer Science | White Collar Crime | Computer Security
 
-Welcome to my GitHub portfolio! Here, you'll find a selection of projects that highlight my work in machine learning, software development, and website design. With each project, I strive to create impactful solutions that meet both technical and business needs. 
+Welcome to my GitHub portfolio! Here, you'll find a selection of projects that highlight my work in machine learning, software development, website design, and stock trading. With each project, I strive to create impactful solutions that meet both technical and business needs. 
 
 ---
 
