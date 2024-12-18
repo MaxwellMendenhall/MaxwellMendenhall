@@ -11,8 +11,6 @@ Welcome to my GitHub portfolio! Here, you'll find a selection of projects that h
 ### 1. **ML-Backtest Library**
 A Python library for running machine learning backtests, designed to streamline the process of testing and evaluating trading strategies.
 
-![Nember Demo](demo.gif)
-
 **Tech Stack**: Python
 
 **Highlights**:
