@@ -2,22 +2,23 @@
 
 ### 🧑‍💻 Computer Science | White Collar Crime | Computer Security
 
-Welcome to my GitHub portfolio! Here, you'll find a selection of projects that highlight my work in machine learning, software development, website design, and stock trading. With each project, I strive to create impactful solutions that meet both technical and business needs. 
+Welcome to my GitHub portfolio! Here, you'll find a selection of projects that highlight my work in machine learning, software development, website design, and stock trading. With each project, I strive to create impactful solutions that meet both technical and business needs.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. **Nember - AI-Driven Trading Solution**
-Machine learning application designed to work with any NinjaScript strategy, enhancing profit while reducing drawdown by 50% to as much as 300%.
+### 1. **ML-Backtest Library**
+A Python library for running machine learning backtests, designed to streamline the process of testing and evaluating trading strategies.
 
 ![Nember Demo](demo.gif)
 
-**Tech Stack**: NinjaScript, C#, Python, MongoDB, and Vue.js
+**Tech Stack**: Python
 
 **Highlights**:
-- **Performance Boost**: AI-based analysis to increase profits and mitigate risks.
-- **Real-Time Trading Integration**: Works seamlessly with NinjaTrader for advanced trading support.
+- **Simple Installation**: Install via pip for quick setup: pip install ml-backtest
+- **Powerful Backtesting**: Includes robust tools for testing strategies with machine learning.
+- **Documentation & Support**: Comprehensive guides to get you started quickly.
 
 [Explore Nember](https://nember.catalystanalytics.io)
 
