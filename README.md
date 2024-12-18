@@ -18,7 +18,7 @@ A Python library for running machine learning backtests, designed to streamline 
 - **Powerful Backtesting**: Includes robust tools for testing strategies with machine learning.
 - **Documentation & Support**: Comprehensive guides to get you started quickly.
 
-[Explore Nember](https://github.com/MaxwellMendenhall/ml_backtest)
+[Explore ML-Backtest](https://github.com/MaxwellMendenhall/ml_backtest)
 
 ---
 
